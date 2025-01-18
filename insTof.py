@@ -5,7 +5,6 @@ import time
 from aiohttp import ClientSession, ClientTimeout
 from aiohttp_socks import ProxyConnector
 import ssl
-from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 BRIGHTDATA_PROXY = "brd.superproxy.io:33335"  # Proxy bilgisi (kendi proxy'nizi kullanabilirsiniz)
