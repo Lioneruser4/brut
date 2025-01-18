@@ -1,1 +1,1 @@
-worker: python bruteforce_bot.py
+worker: python insTof.py
