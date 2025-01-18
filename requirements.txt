@@ -1,2 +1,4 @@
 requests
-python-telegram-bot
+aiohttp
+aiohttp_socks
+urllib3
